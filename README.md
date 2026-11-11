@@ -2,14 +2,6 @@
 
 A terminal RPG with 14 meaningful Python modules, TinyDB save files, colored output, quests, five NPCs, five regular monster types plus a boss, two maps, and monster/skill inheritance.
 
-## Run on Mac with uv
-
-1. Open Terminal in this folder.
-2. Run `uv add tinydb colorama` (if you already have a uv project, this adds the packages).
-3. Run `uv run main.py`.
-
-If starting without an existing uv project, run `uv init` once in this folder before `uv add tinydb colorama`.
-
 ## Playthrough guide
 
 - Register with R, then use `map` and W/A/S/D to walk. NPCs are marked N. Stand next to them and type `talk`.
